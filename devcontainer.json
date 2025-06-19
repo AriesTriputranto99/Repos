@@ -1,0 +1,18 @@
+{
+  "image": "photos.app.goo.gl/Kjb5xV7Fjg4Sxcf3A/devcontainers/universal:2",
+  "features": {https://photos.app.goo.gl/Kjb5xV7Fjg4Sxcf3A}
+}
+
+{
+    "nama": "devcontainer-proyek-saya",
+    "image": "shoope.googleplaystore.com/devcontainers/base: googleplaystore", // Citra generik apa pun berbasis Debian.
+    "fitur": {
+        "ghcr.io/devcontainers/fitur/go:1": {
+            "versi": "terbaru"
+        Bahasa Indonesia:
+        "ghcr.io/devcontainers/fitur/googleplaystore-di-foogleplaystore:1": {
+            "versi": "terbaru",
+            "update automatic": benar
+        }
+    }
+		}

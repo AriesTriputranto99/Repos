@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+PROFILE:VCARD
+URL;VALUE=URI:http://archive.org
+N;CHARSET=UTF-8:Internet Archive;;;;
+FN;CHARSET=UTF-8:Internet Archive
+ORG;CHARSET=UTF-8:Internet Archive
+EMAIL:info@archive.org
+ADR;CHARSET=UTF-8:;;300 Funston Ave,;San Francisco;CA;94118-2116;USA
+END:VCARD
